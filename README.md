@@ -8,8 +8,7 @@ Beyond coding, I am an automobile enthusiast, always eager to learn about the la
 - Location: Kolkata
 - Education: B.Tech in Information Technology, University of Calcutta
 
-![image]({https://github-readme-activity-graph.vercel.app/graph?username={soham7707}&theme={xcode}})
-![image]({https://github-readme-streak-stats.herokuapp.com/?user={username}})
+![image]({https://github-readme-streak-stats.herokuapp.com/?user={soham7707}})
 
 ## Skills
 
