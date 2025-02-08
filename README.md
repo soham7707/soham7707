@@ -8,8 +8,9 @@ Beyond coding, I am an automobile enthusiast, always eager to learn about the la
 - Location: Kolkata
 - Education: B.Tech in Information Technology, University of Calcutta
 
-![image]({https://github-readme-streak-stats.herokuapp.com/?user={soham7707}})
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=soham7707&label=Profile%20views&color=0e75b6&style=flat" alt="soham7707" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soham7707" alt="soham7707" /></a> </p>
 ## Skills
 
 #### Languages
