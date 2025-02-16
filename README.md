@@ -1,6 +1,6 @@
 ## Hi there, I'm Soham! 👋
 ![Visitor](https://komarev.com/ghpvc/?username=soham7707&color=brightgreen&style=for-the-badge&label=Visitors)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://github.com/soham7707)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/soham-mitra-7707ax/)
 [![GitHub followers](https://img.shields.io/github/followers/soham7707?label=Follow&style=social)](https://github.com/soham7707)
 
 
