@@ -4,7 +4,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/soham7707?label=Follow&style=social)](https://github.com/soham7707)
 
 
-I am an aspiring software developer from India passionate about building scalable applications. <br>
+I am a full-stack software developer from India passionate about building scalable applications. <br>
 Currently, I work with the MERN stack for full-stack development while also exploring machine learning and AI <br>
 Beyond coding, I am an automobile enthusiast, always eager to learn about the latest advancements in the automotive world.
 
