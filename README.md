@@ -1,16 +1,34 @@
-## Hi there 👋
-I am an aspiring software developer based in India with a passion for building scalable applications. <br>
-Currently, I work with the MERN stack for full-stack development while also exploring machine learning and AI.<br>
+## Hi there, I'm Soham! 👋
+![Visitor](https://komarev.com/ghpvc/?username=soham7707&color=brightgreen&style=for-the-badge&label=Visitors)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://github.com/soham7707)
+[![GitHub followers](https://img.shields.io/github/followers/soham7707?label=Follow&style=social)](https://github.com/soham7707)
+
+
+I am an aspiring software developer from India passionate about building scalable applications. <br>
+Currently, I work with the MERN stack for full-stack development while also exploring machine learning and AI <br>
 Beyond coding, I am an automobile enthusiast, always eager to learn about the latest advancements in the automotive world.
+
 
 
 ## About Me
 - Location: Kolkata
 - Education: B.Tech in Information Technology, University of Calcutta
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soham7707&label=Profile%20views&color=0e75b6&style=flat" alt="soham7707" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soham7707" alt="soham7707" /></a> </p>
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=soham7707&show_icons=true&theme=radical) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soham7707&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+**Streaks:**
+
+[![GitHub Streak](https://github-readme-streak-stats-blond-mu.vercel.app?user=soham7707&theme=dark&border_radius=6&date_format=M%20j%5B%2C%20Y%5D&card_width=516)](https://git.io/streak-stats)
+
+#### Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=soham7707&theme=onedark&row=1&column=7&title=Repositories,Commits,PullRequest,MultiLanguage,Followers)](https://github.com/kabartay/github-profile-trophy)  
+<!-- link: https://github.com/ryo-ma/github-profile-trophy -->
+
 ## Skills
 
 #### Languages
